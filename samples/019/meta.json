@@ -1,0 +1,12 @@
+﻿{
+    "id":  "019",
+    "project":  "vue-gallery",
+    "vueFile":  "Claim.vue",
+    "sourceRepository":  "https://github.com/Front-End-Ninja/vue-gallery",
+    "sourceCommit":  "a7690281acd1bf4edfd534a963e658b500c1a59a",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/components/Claim.vue",
+    "datasetPath":  "raw-vue/samples/019/Claim.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

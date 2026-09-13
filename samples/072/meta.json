@@ -1,0 +1,12 @@
+﻿{
+    "id":  "072",
+    "project":  "shopping-store-vue",
+    "vueFile":  "CheckoutView.vue",
+    "sourceRepository":  "https://github.com/abbassiddiqi/shopping-store-vue",
+    "sourceCommit":  "e0b68ca68dbac75a1e73c6f1ca430b70fea694b0",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/views/CheckoutView.vue",
+    "datasetPath":  "raw-vue/samples/072/CheckoutView.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

@@ -1,0 +1,1286 @@
+{
+  "id": "013",
+  "project": "social-media-links-page",
+  "vueFile": "App.vue",
+  "sourcePath": "raw-vue/samples/013/App.vue",
+  "structure": {
+    "ui": {
+      "nodes": [
+        {
+          "id": "u1",
+          "range": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 10,
+              "column": 12,
+              "offset": 380
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "u2",
+          "range": {
+            "start": {
+              "line": 1,
+              "column": 11,
+              "offset": 10
+            },
+            "end": {
+              "line": 10,
+              "column": 1,
+              "offset": 369
+            }
+          },
+          "kind": "block"
+        },
+        {
+          "id": "u3",
+          "range": {
+            "start": {
+              "line": 2,
+              "column": 5,
+              "offset": 15
+            },
+            "end": {
+              "line": 2,
+              "column": 29,
+              "offset": 39
+            }
+          },
+          "kind": "component"
+        },
+        {
+          "id": "u4",
+          "range": {
+            "start": {
+              "line": 4,
+              "column": 5,
+              "offset": 45
+            },
+            "end": {
+              "line": 4,
+              "column": 23,
+              "offset": 63
+            }
+          },
+          "kind": "component"
+        },
+        {
+          "id": "u5",
+          "range": {
+            "start": {
+              "line": 6,
+              "column": 5,
+              "offset": 101
+            },
+            "end": {
+              "line": 6,
+              "column": 56,
+              "offset": 152
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u6",
+          "range": {
+            "start": {
+              "line": 8,
+              "column": 5,
+              "offset": 186
+            },
+            "end": {
+              "line": 8,
+              "column": 154,
+              "offset": 335
+            }
+          },
+          "kind": "component"
+        }
+      ],
+      "parentEdges": [
+        {
+          "parent": "u1",
+          "child": "u2"
+        },
+        {
+          "parent": "u2",
+          "child": "u3"
+        },
+        {
+          "parent": "u2",
+          "child": "u4"
+        },
+        {
+          "parent": "u2",
+          "child": "u5"
+        },
+        {
+          "parent": "u2",
+          "child": "u6"
+        }
+      ]
+    },
+    "script": {
+      "nodes": [
+        {
+          "id": "s1",
+          "range": {
+            "start": {
+              "line": 12,
+              "column": 1,
+              "offset": 382
+            },
+            "end": {
+              "line": 25,
+              "column": 10,
+              "offset": 743
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "s2",
+          "range": {
+            "start": {
+              "line": 12,
+              "column": 9,
+              "offset": 390
+            },
+            "end": {
+              "line": 25,
+              "column": 1,
+              "offset": 734
+            }
+          },
+          "kind": "block"
+        },
+        {
+          "id": "s3",
+          "range": {
+            "start": {
+              "line": 13,
+              "column": 1,
+              "offset": 391
+            },
+            "end": {
+              "line": 13,
+              "column": 66,
+              "offset": 456
+            }
+          },
+          "kind": "statement"
+        },
+        {
+          "id": "s4",
+          "range": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 457
+            },
+            "end": {
+              "line": 14,
+              "column": 62,
+              "offset": 518
+            }
+          },
+          "kind": "statement"
+        },
+        {
+          "id": "s5",
+          "range": {
+            "start": {
+              "line": 15,
+              "column": 1,
+              "offset": 519
+            },
+            "end": {
+              "line": 15,
+              "column": 74,
+              "offset": 592
+            }
+          },
+          "kind": "statement"
+        },
+        {
+          "id": "s6",
+          "range": {
+            "start": {
+              "line": 17,
+              "column": 1,
+              "offset": 594
+            },
+            "end": {
+              "line": 24,
+              "column": 3,
+              "offset": 733
+            }
+          },
+          "kind": "statement"
+        },
+        {
+          "id": "s7",
+          "range": {
+            "start": {
+              "line": 18,
+              "column": 5,
+              "offset": 615
+            },
+            "end": {
+              "line": 18,
+              "column": 16,
+              "offset": 626
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "s8",
+          "range": {
+            "start": {
+              "line": 19,
+              "column": 5,
+              "offset": 632
+            },
+            "end": {
+              "line": 23,
+              "column": 6,
+              "offset": 730
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "s9",
+          "range": {
+            "start": {
+              "line": 20,
+              "column": 9,
+              "offset": 654
+            },
+            "end": {
+              "line": 20,
+              "column": 25,
+              "offset": 670
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "s10",
+          "range": {
+            "start": {
+              "line": 21,
+              "column": 9,
+              "offset": 680
+            },
+            "end": {
+              "line": 21,
+              "column": 23,
+              "offset": 694
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "s11",
+          "range": {
+            "start": {
+              "line": 22,
+              "column": 9,
+              "offset": 704
+            },
+            "end": {
+              "line": 22,
+              "column": 29,
+              "offset": 724
+            }
+          },
+          "kind": "documentSymbol"
+        }
+      ],
+      "parentEdges": [
+        {
+          "parent": "s1",
+          "child": "s2"
+        },
+        {
+          "parent": "s2",
+          "child": "s3"
+        },
+        {
+          "parent": "s2",
+          "child": "s4"
+        },
+        {
+          "parent": "s2",
+          "child": "s5"
+        },
+        {
+          "parent": "s2",
+          "child": "s6"
+        },
+        {
+          "parent": "s6",
+          "child": "s7"
+        },
+        {
+          "parent": "s6",
+          "child": "s8"
+        },
+        {
+          "parent": "s8",
+          "child": "s9"
+        },
+        {
+          "parent": "s8",
+          "child": "s10"
+        },
+        {
+          "parent": "s8",
+          "child": "s11"
+        }
+      ]
+    },
+    "style": {
+      "nodes": [
+        {
+          "id": "c1",
+          "range": {
+            "start": {
+              "line": 27,
+              "column": 1,
+              "offset": 745
+            },
+            "end": {
+              "line": 64,
+              "column": 9,
+              "offset": 1435
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "c2",
+          "range": {
+            "start": {
+              "line": 27,
+              "column": 8,
+              "offset": 752
+            },
+            "end": {
+              "line": 64,
+              "column": 1,
+              "offset": 1427
+            }
+          },
+          "kind": "block"
+        },
+        {
+          "id": "c3",
+          "range": {
+            "start": {
+              "line": 28,
+              "column": 1,
+              "offset": 753
+            },
+            "end": {
+              "line": 28,
+              "column": 37,
+              "offset": 789
+            }
+          },
+          "kind": "atRule"
+        },
+        {
+          "id": "c4",
+          "range": {
+            "start": {
+              "line": 30,
+              "column": 1,
+              "offset": 791
+            },
+            "end": {
+              "line": 38,
+              "column": 2,
+              "offset": 1034
+            }
+          },
+          "kind": "rule"
+        },
+        {
+          "id": "c5",
+          "range": {
+            "start": {
+              "line": 31,
+              "column": 5,
+              "offset": 802
+            },
+            "end": {
+              "line": 31,
+              "column": 39,
+              "offset": 836
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c6",
+          "range": {
+            "start": {
+              "line": 32,
+              "column": 5,
+              "offset": 841
+            },
+            "end": {
+              "line": 32,
+              "column": 41,
+              "offset": 877
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c7",
+          "range": {
+            "start": {
+              "line": 33,
+              "column": 5,
+              "offset": 882
+            },
+            "end": {
+              "line": 33,
+              "column": 40,
+              "offset": 917
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c8",
+          "range": {
+            "start": {
+              "line": 34,
+              "column": 5,
+              "offset": 922
+            },
+            "end": {
+              "line": 34,
+              "column": 24,
+              "offset": 941
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c9",
+          "range": {
+            "start": {
+              "line": 35,
+              "column": 5,
+              "offset": 946
+            },
+            "end": {
+              "line": 35,
+              "column": 30,
+              "offset": 971
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c10",
+          "range": {
+            "start": {
+              "line": 36,
+              "column": 5,
+              "offset": 976
+            },
+            "end": {
+              "line": 36,
+              "column": 39,
+              "offset": 1010
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c11",
+          "range": {
+            "start": {
+              "line": 37,
+              "column": 5,
+              "offset": 1015
+            },
+            "end": {
+              "line": 37,
+              "column": 22,
+              "offset": 1032
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c12",
+          "range": {
+            "start": {
+              "line": 40,
+              "column": 1,
+              "offset": 1036
+            },
+            "end": {
+              "line": 48,
+              "column": 2,
+              "offset": 1209
+            }
+          },
+          "kind": "rule"
+        },
+        {
+          "id": "c13",
+          "range": {
+            "start": {
+              "line": 41,
+              "column": 5,
+              "offset": 1047
+            },
+            "end": {
+              "line": 41,
+              "column": 19,
+              "offset": 1061
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c14",
+          "range": {
+            "start": {
+              "line": 42,
+              "column": 5,
+              "offset": 1066
+            },
+            "end": {
+              "line": 42,
+              "column": 18,
+              "offset": 1079
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c15",
+          "range": {
+            "start": {
+              "line": 43,
+              "column": 5,
+              "offset": 1084
+            },
+            "end": {
+              "line": 43,
+              "column": 15,
+              "offset": 1094
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c16",
+          "range": {
+            "start": {
+              "line": 44,
+              "column": 5,
+              "offset": 1099
+            },
+            "end": {
+              "line": 44,
+              "column": 16,
+              "offset": 1110
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c17",
+          "range": {
+            "start": {
+              "line": 45,
+              "column": 5,
+              "offset": 1115
+            },
+            "end": {
+              "line": 45,
+              "column": 28,
+              "offset": 1138
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c18",
+          "range": {
+            "start": {
+              "line": 46,
+              "column": 5,
+              "offset": 1143
+            },
+            "end": {
+              "line": 46,
+              "column": 39,
+              "offset": 1177
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c19",
+          "range": {
+            "start": {
+              "line": 47,
+              "column": 5,
+              "offset": 1182
+            },
+            "end": {
+              "line": 47,
+              "column": 30,
+              "offset": 1207
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c20",
+          "range": {
+            "start": {
+              "line": 50,
+              "column": 1,
+              "offset": 1211
+            },
+            "end": {
+              "line": 53,
+              "column": 2,
+              "offset": 1288
+            }
+          },
+          "kind": "rule"
+        },
+        {
+          "id": "c21",
+          "range": {
+            "start": {
+              "line": 51,
+              "column": 5,
+              "offset": 1222
+            },
+            "end": {
+              "line": 51,
+              "column": 39,
+              "offset": 1256
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c22",
+          "range": {
+            "start": {
+              "line": 52,
+              "column": 5,
+              "offset": 1261
+            },
+            "end": {
+              "line": 52,
+              "column": 30,
+              "offset": 1286
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c23",
+          "range": {
+            "start": {
+              "line": 55,
+              "column": 1,
+              "offset": 1290
+            },
+            "end": {
+              "line": 59,
+              "column": 2,
+              "offset": 1383
+            }
+          },
+          "kind": "rule"
+        },
+        {
+          "id": "c24",
+          "range": {
+            "start": {
+              "line": 56,
+              "column": 5,
+              "offset": 1298
+            },
+            "end": {
+              "line": 56,
+              "column": 30,
+              "offset": 1323
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c25",
+          "range": {
+            "start": {
+              "line": 57,
+              "column": 5,
+              "offset": 1328
+            },
+            "end": {
+              "line": 57,
+              "column": 27,
+              "offset": 1350
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c26",
+          "range": {
+            "start": {
+              "line": 58,
+              "column": 5,
+              "offset": 1355
+            },
+            "end": {
+              "line": 58,
+              "column": 31,
+              "offset": 1381
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c27",
+          "range": {
+            "start": {
+              "line": 61,
+              "column": 1,
+              "offset": 1385
+            },
+            "end": {
+              "line": 63,
+              "column": 2,
+              "offset": 1426
+            }
+          },
+          "kind": "rule"
+        },
+        {
+          "id": "c28",
+          "range": {
+            "start": {
+              "line": 62,
+              "column": 5,
+              "offset": 1399
+            },
+            "end": {
+              "line": 62,
+              "column": 30,
+              "offset": 1424
+            }
+          },
+          "kind": "declaration"
+        }
+      ],
+      "parentEdges": [
+        {
+          "parent": "c1",
+          "child": "c2"
+        },
+        {
+          "parent": "c2",
+          "child": "c3"
+        },
+        {
+          "parent": "c2",
+          "child": "c4"
+        },
+        {
+          "parent": "c2",
+          "child": "c12"
+        },
+        {
+          "parent": "c2",
+          "child": "c20"
+        },
+        {
+          "parent": "c2",
+          "child": "c23"
+        },
+        {
+          "parent": "c2",
+          "child": "c27"
+        },
+        {
+          "parent": "c4",
+          "child": "c5"
+        },
+        {
+          "parent": "c4",
+          "child": "c6"
+        },
+        {
+          "parent": "c4",
+          "child": "c7"
+        },
+        {
+          "parent": "c4",
+          "child": "c8"
+        },
+        {
+          "parent": "c4",
+          "child": "c9"
+        },
+        {
+          "parent": "c4",
+          "child": "c10"
+        },
+        {
+          "parent": "c4",
+          "child": "c11"
+        },
+        {
+          "parent": "c12",
+          "child": "c13"
+        },
+        {
+          "parent": "c12",
+          "child": "c14"
+        },
+        {
+          "parent": "c12",
+          "child": "c15"
+        },
+        {
+          "parent": "c12",
+          "child": "c16"
+        },
+        {
+          "parent": "c12",
+          "child": "c17"
+        },
+        {
+          "parent": "c12",
+          "child": "c18"
+        },
+        {
+          "parent": "c12",
+          "child": "c19"
+        },
+        {
+          "parent": "c20",
+          "child": "c21"
+        },
+        {
+          "parent": "c20",
+          "child": "c22"
+        },
+        {
+          "parent": "c23",
+          "child": "c24"
+        },
+        {
+          "parent": "c23",
+          "child": "c25"
+        },
+        {
+          "parent": "c23",
+          "child": "c26"
+        },
+        {
+          "parent": "c27",
+          "child": "c28"
+        }
+      ]
+    }
+  },
+  "anchors": [
+    {
+      "id": "a1",
+      "ownerId": "s3",
+      "range": {
+        "start": {
+          "line": 13,
+          "column": 8,
+          "offset": 398
+        },
+        "end": {
+          "line": 13,
+          "column": 24,
+          "offset": 414
+        }
+      }
+    },
+    {
+      "id": "a2",
+      "ownerId": "s4",
+      "range": {
+        "start": {
+          "line": 14,
+          "column": 8,
+          "offset": 464
+        },
+        "end": {
+          "line": 14,
+          "column": 22,
+          "offset": 478
+        }
+      }
+    },
+    {
+      "id": "a3",
+      "ownerId": "s5",
+      "range": {
+        "start": {
+          "line": 15,
+          "column": 8,
+          "offset": 526
+        },
+        "end": {
+          "line": 15,
+          "column": 28,
+          "offset": 546
+        }
+      }
+    },
+    {
+      "id": "a4",
+      "ownerId": "u3",
+      "range": {
+        "start": {
+          "line": 2,
+          "column": 6,
+          "offset": 16
+        },
+        "end": {
+          "line": 2,
+          "column": 26,
+          "offset": 36
+        }
+      }
+    },
+    {
+      "id": "a5",
+      "ownerId": "u4",
+      "range": {
+        "start": {
+          "line": 4,
+          "column": 6,
+          "offset": 46
+        },
+        "end": {
+          "line": 4,
+          "column": 20,
+          "offset": 60
+        }
+      }
+    },
+    {
+      "id": "a6",
+      "ownerId": "u6",
+      "range": {
+        "start": {
+          "line": 8,
+          "column": 6,
+          "offset": 187
+        },
+        "end": {
+          "line": 8,
+          "column": 22,
+          "offset": 203
+        }
+      }
+    },
+    {
+      "id": "a7",
+      "ownerId": "u5",
+      "range": {
+        "start": {
+          "line": 6,
+          "column": 30,
+          "offset": 126
+        },
+        "end": {
+          "line": 6,
+          "column": 39,
+          "offset": 135
+        }
+      }
+    },
+    {
+      "id": "a8",
+      "ownerId": "s3",
+      "range": {
+        "start": {
+          "line": 13,
+          "column": 44,
+          "offset": 434
+        },
+        "end": {
+          "line": 13,
+          "column": 60,
+          "offset": 450
+        }
+      }
+    },
+    {
+      "id": "a9",
+      "ownerId": "s9",
+      "range": {
+        "start": {
+          "line": 20,
+          "column": 9,
+          "offset": 654
+        },
+        "end": {
+          "line": 20,
+          "column": 25,
+          "offset": 670
+        }
+      }
+    },
+    {
+      "id": "a10",
+      "ownerId": "s4",
+      "range": {
+        "start": {
+          "line": 14,
+          "column": 42,
+          "offset": 498
+        },
+        "end": {
+          "line": 14,
+          "column": 56,
+          "offset": 512
+        }
+      }
+    },
+    {
+      "id": "a11",
+      "ownerId": "s10",
+      "range": {
+        "start": {
+          "line": 21,
+          "column": 9,
+          "offset": 680
+        },
+        "end": {
+          "line": 21,
+          "column": 23,
+          "offset": 694
+        }
+      }
+    },
+    {
+      "id": "a12",
+      "ownerId": "s5",
+      "range": {
+        "start": {
+          "line": 15,
+          "column": 48,
+          "offset": 566
+        },
+        "end": {
+          "line": 15,
+          "column": 68,
+          "offset": 586
+        }
+      }
+    },
+    {
+      "id": "a13",
+      "ownerId": "s11",
+      "range": {
+        "start": {
+          "line": 22,
+          "column": 9,
+          "offset": 704
+        },
+        "end": {
+          "line": 22,
+          "column": 29,
+          "offset": 724
+        }
+      }
+    },
+    {
+      "id": "a14",
+      "ownerId": "s3",
+      "range": {
+        "start": {
+          "line": 13,
+          "column": 30,
+          "offset": 420
+        },
+        "end": {
+          "line": 13,
+          "column": 65,
+          "offset": 455
+        }
+      }
+    },
+    {
+      "id": "a15",
+      "ownerId": "s4",
+      "range": {
+        "start": {
+          "line": 14,
+          "column": 28,
+          "offset": 484
+        },
+        "end": {
+          "line": 14,
+          "column": 61,
+          "offset": 517
+        }
+      }
+    },
+    {
+      "id": "a16",
+      "ownerId": "s5",
+      "range": {
+        "start": {
+          "line": 15,
+          "column": 34,
+          "offset": 552
+        },
+        "end": {
+          "line": 15,
+          "column": 73,
+          "offset": 591
+        }
+      }
+    }
+  ],
+  "resources": [
+    {
+      "id": "r1",
+      "type": "project-file",
+      "path": "src/components/SocialMediaLinks.vue"
+    },
+    {
+      "id": "r2",
+      "type": "project-file",
+      "path": "src/components/ShareComponent.vue"
+    },
+    {
+      "id": "r3",
+      "type": "project-file",
+      "path": "src/components/ThemeToggleComponent.vue"
+    },
+    {
+      "id": "r4",
+      "type": "asset",
+      "path": "logo.png"
+    },
+    {
+      "id": "r5",
+      "type": "project-file",
+      "path": "public/css/colors.css "
+    },
+    {
+      "id": "r6",
+      "type": "package",
+      "path": "vue-router"
+    }
+  ],
+  "relations": [
+    {
+      "type": "binding",
+      "from": "a4",
+      "to": "a13"
+    },
+    {
+      "type": "binding",
+      "from": "a5",
+      "to": "a11"
+    },
+    {
+      "type": "binding",
+      "from": "a6",
+      "to": "a9"
+    },
+    {
+      "type": "resource",
+      "from": "a7",
+      "to": "r4"
+    },
+    {
+      "type": "reference",
+      "from": "a9",
+      "to": "a1"
+    },
+    {
+      "type": "reference",
+      "from": "a11",
+      "to": "a2"
+    },
+    {
+      "type": "reference",
+      "from": "a13",
+      "to": "a3"
+    },
+    {
+      "type": "resource",
+      "from": "a14",
+      "to": "r1"
+    },
+    {
+      "type": "resource",
+      "from": "a15",
+      "to": "r2"
+    },
+    {
+      "type": "resource",
+      "from": "a16",
+      "to": "r3"
+    },
+    {
+      "type": "resource",
+      "from": "a1",
+      "to": "r1"
+    },
+    {
+      "type": "resource",
+      "from": "a2",
+      "to": "r2"
+    },
+    {
+      "type": "resource",
+      "from": "a3",
+      "to": "r3"
+    },
+    {
+      "type": "mapping",
+      "from": "a1",
+      "to": "a14"
+    },
+    {
+      "type": "mapping",
+      "from": "a2",
+      "to": "a15"
+    },
+    {
+      "type": "mapping",
+      "from": "a3",
+      "to": "a16"
+    }
+  ]
+}

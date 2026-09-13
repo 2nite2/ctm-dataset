@@ -1,0 +1,12 @@
+﻿{
+    "id":  "032",
+    "project":  "bookshelfapp",
+    "vueFile":  "Footer.vue",
+    "sourceRepository":  "https://github.com/ryuuwiz/bookshelfapp",
+    "sourceCommit":  "4b493696e20a880d9c0a08289e5a329ee6ec7796",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/components/Footer.vue",
+    "datasetPath":  "raw-vue/samples/032/Footer.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

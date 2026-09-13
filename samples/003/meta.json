@@ -1,0 +1,12 @@
+﻿{
+    "id":  "003",
+    "project":  "vue-fast-typing",
+    "vueFile":  "Main.vue",
+    "sourceRepository":  "https://github.com/furkangurel/vue-fast-typing",
+    "sourceCommit":  "6f5ec950befbf362b21f3a53595aa1977138ceb6",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/components/Main.vue",
+    "datasetPath":  "raw-vue/samples/003/Main.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

@@ -1,0 +1,12 @@
+﻿{
+    "id":  "027",
+    "project":  "rainblur-landing-page-vue",
+    "vueFile":  "FrontPageLayout.vue",
+    "sourceRepository":  "https://github.com/hoonsubin/rainblur-landing-page-vue",
+    "sourceCommit":  "4b053d35b07d39db681aa8df2db8691a220029ab",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/layouts/FrontPageLayout.vue",
+    "datasetPath":  "raw-vue/samples/027/FrontPageLayout.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

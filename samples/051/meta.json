@@ -1,0 +1,12 @@
+﻿{
+    "id":  "051",
+    "project":  "portfolio-vue3",
+    "vueFile":  "Footer.vue",
+    "sourceRepository":  "https://github.com/fouziabenadida/portfolio-vue3",
+    "sourceCommit":  "7c635ebdb91ae742226b3c6a93a7792f47624ac4",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/components/Footer/Footer.vue",
+    "datasetPath":  "raw-vue/samples/051/Footer.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

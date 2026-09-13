@@ -1,0 +1,12 @@
+﻿{
+    "id":  "017",
+    "project":  "social-media-links-page",
+    "vueFile":  "ThemeToggleComponent.vue",
+    "sourceRepository":  "https://github.com/hrwebdevelopers/social-media-links-page",
+    "sourceCommit":  "a5e303135541278b727dcf61b067f63a9f785203",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/components/ThemeToggleComponent.vue",
+    "datasetPath":  "raw-vue/samples/017/ThemeToggleComponent.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

@@ -1,0 +1,12 @@
+﻿{
+    "id":  "021",
+    "project":  "vue-gallery",
+    "vueFile":  "Item.vue",
+    "sourceRepository":  "https://github.com/Front-End-Ninja/vue-gallery",
+    "sourceCommit":  "a7690281acd1bf4edfd534a963e658b500c1a59a",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/components/Item.vue",
+    "datasetPath":  "raw-vue/samples/021/Item.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

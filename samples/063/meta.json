@@ -1,0 +1,12 @@
+﻿{
+    "id":  "063",
+    "project":  "vue-css3-solarwave-portfolio",
+    "vueFile":  "ProjectShowcase.vue",
+    "sourceRepository":  "https://github.com/smart-developer1791/vue-css3-solarwave-portfolio",
+    "sourceCommit":  "a73cfcda38eb92f83e2de9bc37a034bc53ba6ccd",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/components/ProjectShowcase.vue",
+    "datasetPath":  "raw-vue/samples/063/ProjectShowcase.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

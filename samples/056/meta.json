@@ -1,0 +1,12 @@
+﻿{
+    "id":  "056",
+    "project":  "portfolio-vue3",
+    "vueFile":  "HomeView.vue",
+    "sourceRepository":  "https://github.com/fouziabenadida/portfolio-vue3",
+    "sourceCommit":  "7c635ebdb91ae742226b3c6a93a7792f47624ac4",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/views/HomeView.vue",
+    "datasetPath":  "raw-vue/samples/056/HomeView.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

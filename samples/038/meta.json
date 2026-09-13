@@ -1,0 +1,12 @@
+﻿{
+    "id":  "038",
+    "project":  "Portfolio-Website",
+    "vueFile":  "Contact.vue",
+    "sourceRepository":  "https://github.com/walden-hart/Portfolio-Website",
+    "sourceCommit":  "0a6eddb71f68b0bc6cba775be10b6a0422a507e9",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/components/Contact.vue",
+    "datasetPath":  "raw-vue/samples/038/Contact.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

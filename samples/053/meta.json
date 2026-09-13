@@ -1,0 +1,12 @@
+﻿{
+    "id":  "053",
+    "project":  "portfolio-vue3",
+    "vueFile":  "About.vue",
+    "sourceRepository":  "https://github.com/fouziabenadida/portfolio-vue3",
+    "sourceCommit":  "7c635ebdb91ae742226b3c6a93a7792f47624ac4",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/views/About.vue",
+    "datasetPath":  "raw-vue/samples/053/About.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

@@ -1,0 +1,12 @@
+﻿{
+    "id":  "022",
+    "project":  "vue-gallery",
+    "vueFile":  "SearchInput.vue",
+    "sourceRepository":  "https://github.com/Front-End-Ninja/vue-gallery",
+    "sourceCommit":  "a7690281acd1bf4edfd534a963e658b500c1a59a",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/components/SearchInput.vue",
+    "datasetPath":  "raw-vue/samples/022/SearchInput.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

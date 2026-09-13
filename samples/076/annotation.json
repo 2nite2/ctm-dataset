@@ -1,0 +1,481 @@
+{
+  "id": "076",
+  "project": "coffee-cart",
+  "vueFile": "AdPage.vue",
+  "sourcePath": "raw-vue/samples/076/AdPage.vue",
+  "structure": {
+    "ui": {
+      "nodes": [
+        {
+          "id": "u1",
+          "range": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 3,
+              "column": 12,
+              "offset": 38
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "u2",
+          "range": {
+            "start": {
+              "line": 1,
+              "column": 11,
+              "offset": 10
+            },
+            "end": {
+              "line": 3,
+              "column": 1,
+              "offset": 27
+            }
+          },
+          "kind": "block"
+        },
+        {
+          "id": "u3",
+          "range": {
+            "start": {
+              "line": 2,
+              "column": 3,
+              "offset": 14
+            },
+            "end": {
+              "line": 2,
+              "column": 14,
+              "offset": 25
+            }
+          },
+          "kind": "component"
+        }
+      ],
+      "parentEdges": [
+        {
+          "parent": "u1",
+          "child": "u2"
+        },
+        {
+          "parent": "u2",
+          "child": "u3"
+        }
+      ]
+    },
+    "script": {
+      "nodes": [
+        {
+          "id": "s1",
+          "range": {
+            "start": {
+              "line": 5,
+              "column": 1,
+              "offset": 42
+            },
+            "end": {
+              "line": 19,
+              "column": 10,
+              "offset": 373
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "s2",
+          "range": {
+            "start": {
+              "line": 5,
+              "column": 19,
+              "offset": 60
+            },
+            "end": {
+              "line": 19,
+              "column": 1,
+              "offset": 364
+            }
+          },
+          "kind": "block"
+        },
+        {
+          "id": "s3",
+          "range": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 62
+            },
+            "end": {
+              "line": 6,
+              "column": 39,
+              "offset": 100
+            }
+          },
+          "kind": "statement"
+        },
+        {
+          "id": "s4",
+          "range": {
+            "start": {
+              "line": 7,
+              "column": 1,
+              "offset": 102
+            },
+            "end": {
+              "line": 7,
+              "column": 42,
+              "offset": 143
+            }
+          },
+          "kind": "statement"
+        },
+        {
+          "id": "s5",
+          "range": {
+            "start": {
+              "line": 9,
+              "column": 1,
+              "offset": 147
+            },
+            "end": {
+              "line": 18,
+              "column": 3,
+              "offset": 362
+            }
+          },
+          "kind": "statement"
+        },
+        {
+          "id": "s6",
+          "range": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 183
+            },
+            "end": {
+              "line": 10,
+              "column": 17,
+              "offset": 197
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "s7",
+          "range": {
+            "start": {
+              "line": 11,
+              "column": 3,
+              "offset": 202
+            },
+            "end": {
+              "line": 11,
+              "column": 25,
+              "offset": 224
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "s8",
+          "range": {
+            "start": {
+              "line": 11,
+              "column": 17,
+              "offset": 216
+            },
+            "end": {
+              "line": 11,
+              "column": 23,
+              "offset": 222
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "s9",
+          "range": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 229
+            },
+            "end": {
+              "line": 17,
+              "column": 4,
+              "offset": 358
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "s10",
+          "range": {
+            "start": {
+              "line": 13,
+              "column": 16,
+              "offset": 257
+            },
+            "end": {
+              "line": 15,
+              "column": 6,
+              "offset": 315
+            }
+          },
+          "kind": "documentSymbol"
+        }
+      ],
+      "parentEdges": [
+        {
+          "parent": "s1",
+          "child": "s2"
+        },
+        {
+          "parent": "s2",
+          "child": "s3"
+        },
+        {
+          "parent": "s2",
+          "child": "s4"
+        },
+        {
+          "parent": "s2",
+          "child": "s5"
+        },
+        {
+          "parent": "s5",
+          "child": "s6"
+        },
+        {
+          "parent": "s5",
+          "child": "s7"
+        },
+        {
+          "parent": "s7",
+          "child": "s8"
+        },
+        {
+          "parent": "s5",
+          "child": "s9"
+        },
+        {
+          "parent": "s9",
+          "child": "s10"
+        }
+      ]
+    },
+    "style": {
+      "nodes": [],
+      "parentEdges": []
+    }
+  },
+  "anchors": [
+    {
+      "id": "a1",
+      "ownerId": "s3",
+      "range": {
+        "start": {
+          "line": 6,
+          "column": 10,
+          "offset": 71
+        },
+        "end": {
+          "line": 6,
+          "column": 25,
+          "offset": 86
+        }
+      }
+    },
+    {
+      "id": "a2",
+      "ownerId": "s4",
+      "range": {
+        "start": {
+          "line": 7,
+          "column": 8,
+          "offset": 109
+        },
+        "end": {
+          "line": 7,
+          "column": 14,
+          "offset": 115
+        }
+      }
+    },
+    {
+      "id": "a3",
+      "ownerId": "u3",
+      "range": {
+        "start": {
+          "line": 2,
+          "column": 4,
+          "offset": 15
+        },
+        "end": {
+          "line": 2,
+          "column": 10,
+          "offset": 21
+        }
+      }
+    },
+    {
+      "id": "a4",
+      "ownerId": "s8",
+      "range": {
+        "start": {
+          "line": 11,
+          "column": 17,
+          "offset": 216
+        },
+        "end": {
+          "line": 11,
+          "column": 23,
+          "offset": 222
+        }
+      }
+    },
+    {
+      "id": "a5",
+      "ownerId": "s10",
+      "range": {
+        "start": {
+          "line": 14,
+          "column": 7,
+          "offset": 272
+        },
+        "end": {
+          "line": 14,
+          "column": 13,
+          "offset": 278
+        }
+      }
+    },
+    {
+      "id": "a6",
+      "ownerId": "s10",
+      "range": {
+        "start": {
+          "line": 14,
+          "column": 14,
+          "offset": 279
+        },
+        "end": {
+          "line": 14,
+          "column": 25,
+          "offset": 290
+        }
+      }
+    },
+    {
+      "id": "a7",
+      "ownerId": "s5",
+      "range": {
+        "start": {
+          "line": 9,
+          "column": 16,
+          "offset": 162
+        },
+        "end": {
+          "line": 9,
+          "column": 31,
+          "offset": 177
+        }
+      }
+    },
+    {
+      "id": "a8",
+      "ownerId": "s3",
+      "range": {
+        "start": {
+          "line": 6,
+          "column": 33,
+          "offset": 94
+        },
+        "end": {
+          "line": 6,
+          "column": 38,
+          "offset": 99
+        }
+      }
+    },
+    {
+      "id": "a9",
+      "ownerId": "s4",
+      "range": {
+        "start": {
+          "line": 7,
+          "column": 20,
+          "offset": 121
+        },
+        "end": {
+          "line": 7,
+          "column": 41,
+          "offset": 142
+        }
+      }
+    }
+  ],
+  "resources": [
+    {
+      "id": "r1",
+      "type": "package",
+      "path": "vue"
+    },
+    {
+      "id": "r2",
+      "type": "project-file",
+      "path": "src/components/parts/Banner.vue"
+    },
+    {
+      "id": "r4",
+      "type": "package",
+      "path": "vue-router"
+    }
+  ],
+  "relations": [
+    {
+      "type": "reference",
+      "from": "a4",
+      "to": "a2"
+    },
+    {
+      "type": "reference",
+      "from": "a6",
+      "to": "a5"
+    },
+    {
+      "type": "reference",
+      "from": "a7",
+      "to": "a1"
+    },
+    {
+      "type": "resource",
+      "from": "a8",
+      "to": "r1"
+    },
+    {
+      "type": "resource",
+      "from": "a9",
+      "to": "r2"
+    },
+    {
+      "type": "binding",
+      "from": "a3",
+      "to": "a4"
+    },
+    {
+      "type": "resource",
+      "from": "a1",
+      "to": "r1"
+    },
+    {
+      "type": "resource",
+      "from": "a2",
+      "to": "r2"
+    }
+  ]
+}

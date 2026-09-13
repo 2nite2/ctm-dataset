@@ -1,0 +1,12 @@
+﻿{
+    "id":  "029",
+    "project":  "bookshelfapp",
+    "vueFile":  "App.vue",
+    "sourceRepository":  "https://github.com/ryuuwiz/bookshelfapp",
+    "sourceCommit":  "4b493696e20a880d9c0a08289e5a329ee6ec7796",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/App.vue",
+    "datasetPath":  "raw-vue/samples/029/App.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

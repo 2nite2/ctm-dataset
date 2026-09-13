@@ -1,0 +1,12 @@
+﻿{
+    "id":  "094",
+    "project":  "MoviePal",
+    "vueFile":  "Jumborton.vue",
+    "sourceRepository":  "https://github.com/eralpozcan/MoviePal",
+    "sourceCommit":  "e19c66cf6caebd2921ec3719c8fab7de8bc7d4e1",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/components/Jumborton.vue",
+    "datasetPath":  "raw-vue/samples/094/Jumborton.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

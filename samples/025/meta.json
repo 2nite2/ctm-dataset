@@ -1,0 +1,12 @@
+﻿{
+    "id":  "025",
+    "project":  "rainblur-landing-page-vue",
+    "vueFile":  "Navbar.vue",
+    "sourceRepository":  "https://github.com/hoonsubin/rainblur-landing-page-vue",
+    "sourceCommit":  "4b053d35b07d39db681aa8df2db8691a220029ab",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/components/Navbar.vue",
+    "datasetPath":  "raw-vue/samples/025/Navbar.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

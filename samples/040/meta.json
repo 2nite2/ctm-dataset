@@ -1,0 +1,12 @@
+﻿{
+    "id":  "040",
+    "project":  "Portfolio-Website",
+    "vueFile":  "Navbar.vue",
+    "sourceRepository":  "https://github.com/walden-hart/Portfolio-Website",
+    "sourceCommit":  "0a6eddb71f68b0bc6cba775be10b6a0422a507e9",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/components/Navbar.vue",
+    "datasetPath":  "raw-vue/samples/040/Navbar.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

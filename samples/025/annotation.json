@@ -1,0 +1,610 @@
+{
+  "id": "025",
+  "project": "rainblur-landing-page-vue",
+  "vueFile": "Navbar.vue",
+  "sourcePath": "raw-vue/samples/025/Navbar.vue",
+  "structure": {
+    "ui": {
+      "nodes": [
+        {
+          "id": "u1",
+          "range": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 36,
+              "column": 12,
+              "offset": 2599
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "u2",
+          "range": {
+            "start": {
+              "line": 1,
+              "column": 11,
+              "offset": 10
+            },
+            "end": {
+              "line": 36,
+              "column": 1,
+              "offset": 2588
+            }
+          },
+          "kind": "block"
+        },
+        {
+          "id": "u3",
+          "range": {
+            "start": {
+              "line": 2,
+              "column": 5,
+              "offset": 16
+            },
+            "end": {
+              "line": 35,
+              "column": 11,
+              "offset": 2586
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u4",
+          "range": {
+            "start": {
+              "line": 3,
+              "column": 9,
+              "offset": 64
+            },
+            "end": {
+              "line": 34,
+              "column": 15,
+              "offset": 2574
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u5",
+          "range": {
+            "start": {
+              "line": 4,
+              "column": 13,
+              "offset": 132
+            },
+            "end": {
+              "line": 12,
+              "column": 17,
+              "offset": 511
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u6",
+          "range": {
+            "start": {
+              "line": 7,
+              "column": 14,
+              "offset": 297
+            },
+            "end": {
+              "line": 8,
+              "column": 21,
+              "offset": 319
+            }
+          },
+          "kind": "text"
+        },
+        {
+          "id": "u7",
+          "range": {
+            "start": {
+              "line": 8,
+              "column": 21,
+              "offset": 319
+            },
+            "end": {
+              "line": 11,
+              "column": 18,
+              "offset": 493
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u8",
+          "range": {
+            "start": {
+              "line": 10,
+              "column": 22,
+              "offset": 464
+            },
+            "end": {
+              "line": 10,
+              "column": 26,
+              "offset": 468
+            }
+          },
+          "kind": "text"
+        },
+        {
+          "id": "u9",
+          "range": {
+            "start": {
+              "line": 14,
+              "column": 13,
+              "offset": 527
+            },
+            "end": {
+              "line": 33,
+              "column": 19,
+              "offset": 2558
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u10",
+          "range": {
+            "start": {
+              "line": 15,
+              "column": 17,
+              "offset": 596
+            },
+            "end": {
+              "line": 24,
+              "column": 21,
+              "offset": 1948
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u11",
+          "range": {
+            "start": {
+              "line": 19,
+              "column": 21,
+              "offset": 905
+            },
+            "end": {
+              "line": 23,
+              "column": 27,
+              "offset": 1926
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u12",
+          "range": {
+            "start": {
+              "line": 20,
+              "column": 25,
+              "offset": 1016
+            },
+            "end": {
+              "line": 22,
+              "column": 33,
+              "offset": 1898
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u13",
+          "range": {
+            "start": {
+              "line": 25,
+              "column": 17,
+              "offset": 1966
+            },
+            "end": {
+              "line": 32,
+              "column": 21,
+              "offset": 2538
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u14",
+          "range": {
+            "start": {
+              "line": 29,
+              "column": 21,
+              "offset": 2283
+            },
+            "end": {
+              "line": 31,
+              "column": 27,
+              "offset": 2516
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u15",
+          "range": {
+            "start": {
+              "line": 30,
+              "column": 25,
+              "offset": 2394
+            },
+            "end": {
+              "line": 30,
+              "column": 119,
+              "offset": 2488
+            }
+          },
+          "kind": "element"
+        }
+      ],
+      "parentEdges": [
+        {
+          "parent": "u1",
+          "child": "u2"
+        },
+        {
+          "parent": "u2",
+          "child": "u3"
+        },
+        {
+          "parent": "u3",
+          "child": "u4"
+        },
+        {
+          "parent": "u4",
+          "child": "u5"
+        },
+        {
+          "parent": "u4",
+          "child": "u9"
+        },
+        {
+          "parent": "u5",
+          "child": "u6"
+        },
+        {
+          "parent": "u5",
+          "child": "u7"
+        },
+        {
+          "parent": "u7",
+          "child": "u8"
+        },
+        {
+          "parent": "u9",
+          "child": "u10"
+        },
+        {
+          "parent": "u9",
+          "child": "u13"
+        },
+        {
+          "parent": "u10",
+          "child": "u11"
+        },
+        {
+          "parent": "u11",
+          "child": "u12"
+        },
+        {
+          "parent": "u13",
+          "child": "u14"
+        },
+        {
+          "parent": "u14",
+          "child": "u15"
+        }
+      ]
+    },
+    "script": {
+      "nodes": [
+        {
+          "id": "s1",
+          "range": {
+            "start": {
+              "line": 38,
+              "column": 1,
+              "offset": 2603
+            },
+            "end": {
+              "line": 44,
+              "column": 10,
+              "offset": 2739
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "s2",
+          "range": {
+            "start": {
+              "line": 38,
+              "column": 19,
+              "offset": 2621
+            },
+            "end": {
+              "line": 44,
+              "column": 1,
+              "offset": 2730
+            }
+          },
+          "kind": "block"
+        },
+        {
+          "id": "s3",
+          "range": {
+            "start": {
+              "line": 39,
+              "column": 1,
+              "offset": 2623
+            },
+            "end": {
+              "line": 39,
+              "column": 44,
+              "offset": 2666
+            }
+          },
+          "kind": "statement"
+        },
+        {
+          "id": "s4",
+          "range": {
+            "start": {
+              "line": 41,
+              "column": 1,
+              "offset": 2670
+            },
+            "end": {
+              "line": 43,
+              "column": 4,
+              "offset": 2728
+            }
+          },
+          "kind": "statement"
+        },
+        {
+          "id": "s5",
+          "range": {
+            "start": {
+              "line": 42,
+              "column": 5,
+              "offset": 2708
+            },
+            "end": {
+              "line": 42,
+              "column": 19,
+              "offset": 2722
+            }
+          },
+          "kind": "documentSymbol"
+        }
+      ],
+      "parentEdges": [
+        {
+          "parent": "s1",
+          "child": "s2"
+        },
+        {
+          "parent": "s2",
+          "child": "s3"
+        },
+        {
+          "parent": "s2",
+          "child": "s4"
+        },
+        {
+          "parent": "s4",
+          "child": "s5"
+        }
+      ]
+    },
+    "style": {
+      "nodes": [],
+      "parentEdges": []
+    }
+  },
+  "anchors": [
+    {
+      "id": "a1",
+      "ownerId": "s3",
+      "range": {
+        "start": {
+          "line": 39,
+          "column": 10,
+          "offset": 2632
+        },
+        "end": {
+          "line": 39,
+          "column": 25,
+          "offset": 2647
+        }
+      }
+    },
+    {
+      "id": "a3",
+      "ownerId": "u10",
+      "range": {
+        "start": {
+          "line": 17,
+          "column": 27,
+          "offset": 825
+        },
+        "end": {
+          "line": 17,
+          "column": 65,
+          "offset": 863
+        }
+      }
+    },
+    {
+      "id": "a4",
+      "ownerId": "u13",
+      "range": {
+        "start": {
+          "line": 27,
+          "column": 27,
+          "offset": 2195
+        },
+        "end": {
+          "line": 27,
+          "column": 73,
+          "offset": 2241
+        }
+      }
+    },
+    {
+      "id": "a5",
+      "ownerId": "s4",
+      "range": {
+        "start": {
+          "line": 41,
+          "column": 16,
+          "offset": 2685
+        },
+        "end": {
+          "line": 41,
+          "column": 31,
+          "offset": 2700
+        }
+      }
+    },
+    {
+      "id": "a6",
+      "ownerId": "s3",
+      "range": {
+        "start": {
+          "line": 39,
+          "column": 27,
+          "offset": 2649
+        },
+        "end": {
+          "line": 39,
+          "column": 30,
+          "offset": 2652
+        }
+      }
+    },
+    {
+      "id": "a7",
+      "ownerId": "u11",
+      "range": {
+        "start": {
+          "line": 19,
+          "column": 58,
+          "offset": 942
+        },
+        "end": {
+          "line": 19,
+          "column": 84,
+          "offset": 968
+        }
+      }
+    },
+    {
+      "id": "a8",
+      "ownerId": "u14",
+      "range": {
+        "start": {
+          "line": 29,
+          "column": 58,
+          "offset": 2320
+        },
+        "end": {
+          "line": 29,
+          "column": 84,
+          "offset": 2346
+        }
+      }
+    },
+    {
+      "id": "a9",
+      "ownerId": "s3",
+      "range": {
+        "start": {
+          "line": 39,
+          "column": 38,
+          "offset": 2660
+        },
+        "end": {
+          "line": 39,
+          "column": 43,
+          "offset": 2665
+        }
+      }
+    }
+  ],
+  "resources": [
+    {
+      "id": "r1",
+      "type": "package",
+      "path": "vue"
+    },
+    {
+      "id": "r3",
+      "type": "url",
+      "path": "https://twitter.com/intent/tweet?url=#"
+    },
+    {
+      "id": "r4",
+      "type": "url",
+      "path": "https://www.facebook.com/sharer/sharer.php?u=#"
+    },
+    {
+      "id": "r5",
+      "type": "url",
+      "path": "http://www.w3.org/2000/svg"
+    }
+  ],
+  "relations": [
+    {
+      "type": "resource",
+      "from": "a3",
+      "to": "r3"
+    },
+    {
+      "type": "resource",
+      "from": "a4",
+      "to": "r4"
+    },
+    {
+      "type": "reference",
+      "from": "a5",
+      "to": "a1"
+    },
+    {
+      "type": "resource",
+      "from": "a7",
+      "to": "r5"
+    },
+    {
+      "type": "resource",
+      "from": "a8",
+      "to": "r5"
+    },
+    {
+      "type": "resource",
+      "from": "a9",
+      "to": "r1"
+    },
+    {
+      "type": "resource",
+      "from": "a1",
+      "to": "r1"
+    },
+    {
+      "type": "resource",
+      "from": "a6",
+      "to": "r1"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+    "id":  "006",
+    "project":  "vue3-movie-app",
+    "vueFile":  "Home.vue",
+    "sourceRepository":  "https://github.com/Jasmeen1347/vue3-movie-app",
+    "sourceCommit":  "0b239bf059e33f29da148577c40d0ae0b2c52a6e",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/views/Home.vue",
+    "datasetPath":  "raw-vue/samples/006/Home.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

@@ -1,0 +1,12 @@
+﻿{
+    "id":  "015",
+    "project":  "social-media-links-page",
+    "vueFile":  "ShareComponent.vue",
+    "sourceRepository":  "https://github.com/hrwebdevelopers/social-media-links-page",
+    "sourceCommit":  "a5e303135541278b727dcf61b067f63a9f785203",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/components/ShareComponent.vue",
+    "datasetPath":  "raw-vue/samples/015/ShareComponent.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

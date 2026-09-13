@@ -1,0 +1,318 @@
+{
+  "id": "048",
+  "project": "vue-travel-hub-",
+  "vueFile": "Hero.vue",
+  "sourcePath": "raw-vue/samples/048/Hero.vue",
+  "structure": {
+    "ui": {
+      "nodes": [
+        {
+          "id": "u1",
+          "range": {
+            "start": {
+              "line": 7,
+              "column": 1,
+              "offset": 102
+            },
+            "end": {
+              "line": 22,
+              "column": 12,
+              "offset": 651
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "u2",
+          "range": {
+            "start": {
+              "line": 7,
+              "column": 11,
+              "offset": 112
+            },
+            "end": {
+              "line": 22,
+              "column": 1,
+              "offset": 640
+            }
+          },
+          "kind": "block"
+        },
+        {
+          "id": "u3",
+          "range": {
+            "start": {
+              "line": 8,
+              "column": 5,
+              "offset": 118
+            },
+            "end": {
+              "line": 21,
+              "column": 15,
+              "offset": 638
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u4",
+          "range": {
+            "start": {
+              "line": 9,
+              "column": 9,
+              "offset": 164
+            },
+            "end": {
+              "line": 20,
+              "column": 15,
+              "offset": 622
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u5",
+          "range": {
+            "start": {
+              "line": 10,
+              "column": 13,
+              "offset": 213
+            },
+            "end": {
+              "line": 12,
+              "column": 18,
+              "offset": 308
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u6",
+          "range": {
+            "start": {
+              "line": 10,
+              "column": 43,
+              "offset": 243
+            },
+            "end": {
+              "line": 12,
+              "column": 13,
+              "offset": 303
+            }
+          },
+          "kind": "text"
+        },
+        {
+          "id": "u7",
+          "range": {
+            "start": {
+              "line": 13,
+              "column": 13,
+              "offset": 322
+            },
+            "end": {
+              "line": 16,
+              "column": 17,
+              "offset": 473
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u8",
+          "range": {
+            "start": {
+              "line": 13,
+              "column": 34,
+              "offset": 343
+            },
+            "end": {
+              "line": 16,
+              "column": 13,
+              "offset": 469
+            }
+          },
+          "kind": "text"
+        },
+        {
+          "id": "u9",
+          "range": {
+            "start": {
+              "line": 17,
+              "column": 13,
+              "offset": 487
+            },
+            "end": {
+              "line": 19,
+              "column": 22,
+              "offset": 606
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u10",
+          "range": {
+            "start": {
+              "line": 17,
+              "column": 76,
+              "offset": 550
+            },
+            "end": {
+              "line": 19,
+              "column": 13,
+              "offset": 597
+            }
+          },
+          "kind": "text"
+        }
+      ],
+      "parentEdges": [
+        {
+          "parent": "u1",
+          "child": "u2"
+        },
+        {
+          "parent": "u2",
+          "child": "u3"
+        },
+        {
+          "parent": "u3",
+          "child": "u4"
+        },
+        {
+          "parent": "u4",
+          "child": "u5"
+        },
+        {
+          "parent": "u4",
+          "child": "u7"
+        },
+        {
+          "parent": "u4",
+          "child": "u9"
+        },
+        {
+          "parent": "u5",
+          "child": "u6"
+        },
+        {
+          "parent": "u7",
+          "child": "u8"
+        },
+        {
+          "parent": "u9",
+          "child": "u10"
+        }
+      ]
+    },
+    "script": {
+      "nodes": [
+        {
+          "id": "s1",
+          "range": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 5,
+              "column": 10,
+              "offset": 98
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "s2",
+          "range": {
+            "start": {
+              "line": 1,
+              "column": 15,
+              "offset": 14
+            },
+            "end": {
+              "line": 5,
+              "column": 1,
+              "offset": 89
+            }
+          },
+          "kind": "block"
+        },
+        {
+          "id": "s3",
+          "range": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 16
+            },
+            "end": {
+              "line": 4,
+              "column": 2,
+              "offset": 87
+            }
+          },
+          "kind": "statement"
+        }
+      ],
+      "parentEdges": [
+        {
+          "parent": "s1",
+          "child": "s2"
+        },
+        {
+          "parent": "s2",
+          "child": "s3"
+        }
+      ]
+    },
+    "style": {
+      "nodes": [],
+      "parentEdges": []
+    }
+  },
+  "anchors": [
+    {
+      "id": "a1",
+      "ownerId": "u9",
+      "range": {
+        "start": {
+          "line": 17,
+          "column": 60,
+          "offset": 534
+        },
+        "end": {
+          "line": 17,
+          "column": 74,
+          "offset": 548
+        }
+      }
+    },
+    {
+      "id": "a2",
+      "ownerId": "s3",
+      "range": {
+        "start": {
+          "line": 2,
+          "column": 10,
+          "offset": 25
+        },
+        "end": {
+          "line": 2,
+          "column": 24,
+          "offset": 39
+        }
+      }
+    }
+  ],
+  "resources": [],
+  "relations": [
+    {
+      "type": "binding",
+      "from": "a1",
+      "to": "a2"
+    }
+  ]
+}

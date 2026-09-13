@@ -1,0 +1,12 @@
+﻿{
+    "id":  "079",
+    "project":  "coffee-cart",
+    "vueFile":  "ListPage.vue",
+    "sourceRepository":  "https://github.com/jecfish/coffee-cart",
+    "sourceCommit":  "4c7783c4860b82c52bff8603a958d7efe12b717a",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/components/pages/ListPage.vue",
+    "datasetPath":  "raw-vue/samples/079/ListPage.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

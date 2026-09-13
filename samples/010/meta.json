@@ -1,0 +1,12 @@
+﻿{
+    "id":  "010",
+    "project":  "movies-catalogue-vue3-firebase",
+    "vueFile":  "MoviesList.vue",
+    "sourceRepository":  "https://github.com/planarpixel/movies-catalogue-vue3-firebase",
+    "sourceCommit":  "3cc27c82cfd082592849323e3b38291b3eb4964c",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/components/MoviesList.vue",
+    "datasetPath":  "raw-vue/samples/010/MoviesList.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

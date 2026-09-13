@@ -1,0 +1,12 @@
+﻿{
+    "id":  "074",
+    "project":  "shopping-store-vue",
+    "vueFile":  "ProductDetailView.vue",
+    "sourceRepository":  "https://github.com/abbassiddiqi/shopping-store-vue",
+    "sourceCommit":  "e0b68ca68dbac75a1e73c6f1ca430b70fea694b0",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/views/ProductDetailView.vue",
+    "datasetPath":  "raw-vue/samples/074/ProductDetailView.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

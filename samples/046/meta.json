@@ -1,0 +1,12 @@
+﻿{
+    "id":  "046",
+    "project":  "vue-travel-hub-",
+    "vueFile":  "Destinations.vue",
+    "sourceRepository":  "https://github.com/nhial-cham/vue-travel-hub-",
+    "sourceCommit":  "b78a79607ccc4a01aee0c97390afb055732e5510",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/components/Destinations.vue",
+    "datasetPath":  "raw-vue/samples/046/Destinations.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

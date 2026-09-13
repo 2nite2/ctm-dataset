@@ -1,0 +1,12 @@
+﻿{
+    "id":  "001",
+    "project":  "vue3-TodoMVC",
+    "vueFile":  "App.vue",
+    "sourceRepository":  "https://github.com/yukkeorg/vue3-TodoMVC",
+    "sourceCommit":  "bac69db461109261d74936bce74b87916e19ee1c",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/App.vue",
+    "datasetPath":  "raw-vue/samples/001/App.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

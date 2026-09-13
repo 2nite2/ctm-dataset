@@ -1,0 +1,375 @@
+{
+  "id": "036",
+  "project": "Portfolio-Website",
+  "vueFile": "App.vue",
+  "sourcePath": "raw-vue/samples/036/App.vue",
+  "structure": {
+    "ui": {
+      "nodes": [
+        {
+          "id": "u1",
+          "range": {
+            "start": {
+              "line": 5,
+              "column": 1,
+              "offset": 82
+            },
+            "end": {
+              "line": 12,
+              "column": 12,
+              "offset": 189
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "u2",
+          "range": {
+            "start": {
+              "line": 5,
+              "column": 11,
+              "offset": 92
+            },
+            "end": {
+              "line": 12,
+              "column": 1,
+              "offset": 178
+            }
+          },
+          "kind": "block"
+        },
+        {
+          "id": "u3",
+          "range": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 95
+            },
+            "end": {
+              "line": 11,
+              "column": 11,
+              "offset": 177
+            }
+          },
+          "kind": "component"
+        },
+        {
+          "id": "u4",
+          "range": {
+            "start": {
+              "line": 7,
+              "column": 5,
+              "offset": 107
+            },
+            "end": {
+              "line": 7,
+              "column": 15,
+              "offset": 117
+            }
+          },
+          "kind": "component"
+        },
+        {
+          "id": "u5",
+          "range": {
+            "start": {
+              "line": 8,
+              "column": 5,
+              "offset": 122
+            },
+            "end": {
+              "line": 10,
+              "column": 14,
+              "offset": 166
+            }
+          },
+          "kind": "component"
+        },
+        {
+          "id": "u6",
+          "range": {
+            "start": {
+              "line": 9,
+              "column": 7,
+              "offset": 137
+            },
+            "end": {
+              "line": 9,
+              "column": 22,
+              "offset": 152
+            }
+          },
+          "kind": "component"
+        }
+      ],
+      "parentEdges": [
+        {
+          "parent": "u1",
+          "child": "u2"
+        },
+        {
+          "parent": "u2",
+          "child": "u3"
+        },
+        {
+          "parent": "u3",
+          "child": "u4"
+        },
+        {
+          "parent": "u3",
+          "child": "u5"
+        },
+        {
+          "parent": "u5",
+          "child": "u6"
+        }
+      ]
+    },
+    "script": {
+      "nodes": [
+        {
+          "id": "s1",
+          "range": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 3,
+              "column": 10,
+              "offset": 80
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "s2",
+          "range": {
+            "start": {
+              "line": 1,
+              "column": 25,
+              "offset": 24
+            },
+            "end": {
+              "line": 3,
+              "column": 1,
+              "offset": 71
+            }
+          },
+          "kind": "block"
+        },
+        {
+          "id": "s3",
+          "range": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 25
+            },
+            "end": {
+              "line": 2,
+              "column": 46,
+              "offset": 70
+            }
+          },
+          "kind": "statement"
+        }
+      ],
+      "parentEdges": [
+        {
+          "parent": "s1",
+          "child": "s2"
+        },
+        {
+          "parent": "s2",
+          "child": "s3"
+        }
+      ]
+    },
+    "style": {
+      "nodes": [],
+      "parentEdges": []
+    }
+  },
+  "anchors": [
+    {
+      "id": "a1",
+      "ownerId": "s3",
+      "range": {
+        "start": {
+          "line": 2,
+          "column": 8,
+          "offset": 32
+        },
+        "end": {
+          "line": 2,
+          "column": 14,
+          "offset": 38
+        }
+      }
+    },
+    {
+      "id": "a2",
+      "ownerId": "u3",
+      "range": {
+        "start": {
+          "line": 6,
+          "column": 4,
+          "offset": 96
+        },
+        "end": {
+          "line": 6,
+          "column": 9,
+          "offset": 101
+        }
+      }
+    },
+    {
+      "id": "a3",
+      "ownerId": "u4",
+      "range": {
+        "start": {
+          "line": 7,
+          "column": 6,
+          "offset": 108
+        },
+        "end": {
+          "line": 7,
+          "column": 12,
+          "offset": 114
+        }
+      }
+    },
+    {
+      "id": "a4",
+      "ownerId": "u5",
+      "range": {
+        "start": {
+          "line": 8,
+          "column": 6,
+          "offset": 123
+        },
+        "end": {
+          "line": 8,
+          "column": 12,
+          "offset": 129
+        }
+      }
+    },
+    {
+      "id": "a6",
+      "ownerId": "s3",
+      "range": {
+        "start": {
+          "line": 2,
+          "column": 34,
+          "offset": 58
+        },
+        "end": {
+          "line": 2,
+          "column": 40,
+          "offset": 64
+        }
+      }
+    },
+    {
+      "id": "a7",
+      "ownerId": "u6",
+      "range": {
+        "start": {
+          "line": 9,
+          "column": 8,
+          "offset": 138
+        },
+        "end": {
+          "line": 9,
+          "column": 19,
+          "offset": 149
+        }
+      }
+    },
+    {
+      "id": "a8",
+      "ownerId": "s3",
+      "range": {
+        "start": {
+          "line": 2,
+          "column": 20,
+          "offset": 44
+        },
+        "end": {
+          "line": 2,
+          "column": 45,
+          "offset": 69
+        }
+      }
+    },
+    {
+      "id": "a9",
+      "ownerId": "s3",
+      "range": {
+        "start": {
+          "line": 2,
+          "column": 21,
+          "offset": 45
+        },
+        "end": {
+          "line": 2,
+          "column": 44,
+          "offset": 68
+        }
+      }
+    }
+  ],
+  "resources": [
+    {
+      "id": "r1",
+      "type": "project-file",
+      "path": "src/components/Navbar.vue"
+    },
+    {
+      "id": "r2",
+      "type": "package",
+      "path": "vuetify@^3.10.2"
+    },
+    {
+      "id": "r3",
+      "type": "package",
+      "path": "vue-router@^4.5.1"
+    }
+  ],
+  "relations": [
+    {
+      "type": "resource",
+      "from": "a2",
+      "to": "r2"
+    },
+    {
+      "type": "binding",
+      "from": "a3",
+      "to": "a1"
+    },
+    {
+      "type": "resource",
+      "from": "a4",
+      "to": "r2"
+    },
+    {
+      "type": "resource",
+      "from": "a8",
+      "to": "r1"
+    },
+    {
+      "type": "resource",
+      "from": "a1",
+      "to": "r1"
+    },
+    {
+      "type": "reference",
+      "from": "a1",
+      "to": "a9"
+    }
+  ]
+}

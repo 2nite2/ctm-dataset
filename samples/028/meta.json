@@ -1,0 +1,13 @@
+﻿{
+    "id":  "028",
+    "project":  "rainblur-landing-page-vue",
+    "vueFile":  "Content.vue",
+    "sourceRepository":  "https://github.com/hoonsubin/rainblur-landing-page-vue",
+    "sourceCommit":  "4b053d35b07d39db681aa8df2db8691a220029ab",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/views/Content.vue",
+    "datasetPath":  "raw-vue/samples/028/Content.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license",
+    "localChanges":  true
+}

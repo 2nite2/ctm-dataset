@@ -1,0 +1,12 @@
+﻿{
+    "id":  "097",
+    "project":  "MoviePal",
+    "vueFile":  "Slider.vue",
+    "sourceRepository":  "https://github.com/eralpozcan/MoviePal",
+    "sourceCommit":  "e19c66cf6caebd2921ec3719c8fab7de8bc7d4e1",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/components/Slider.vue",
+    "datasetPath":  "raw-vue/samples/097/Slider.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

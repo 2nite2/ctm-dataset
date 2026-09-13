@@ -1,0 +1,12 @@
+﻿{
+    "id":  "013",
+    "project":  "social-media-links-page",
+    "vueFile":  "App.vue",
+    "sourceRepository":  "https://github.com/hrwebdevelopers/social-media-links-page",
+    "sourceCommit":  "a5e303135541278b727dcf61b067f63a9f785203",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/App.vue",
+    "datasetPath":  "raw-vue/samples/013/App.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

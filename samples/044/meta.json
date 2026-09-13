@@ -1,0 +1,12 @@
+﻿{
+    "id":  "044",
+    "project":  "vue-travel-hub-",
+    "vueFile":  "Benefits.vue",
+    "sourceRepository":  "https://github.com/nhial-cham/vue-travel-hub-",
+    "sourceCommit":  "b78a79607ccc4a01aee0c97390afb055732e5510",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/components/Benefits.vue",
+    "datasetPath":  "raw-vue/samples/044/Benefits.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}

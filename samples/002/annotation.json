@@ -1,0 +1,316 @@
+{
+  "id": "002",
+  "project": "vue-fast-typing",
+  "vueFile": "App.vue",
+  "sourcePath": "raw-vue/samples/002/App.vue",
+  "structure": {
+    "ui": {
+      "nodes": [
+        {
+          "id": "u1",
+          "range": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 3,
+              "column": 12,
+              "offset": 32
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "u2",
+          "range": {
+            "start": {
+              "line": 1,
+              "column": 11,
+              "offset": 10
+            },
+            "end": {
+              "line": 3,
+              "column": 1,
+              "offset": 21
+            }
+          },
+          "kind": "block"
+        },
+        {
+          "id": "u3",
+          "range": {
+            "start": {
+              "line": 2,
+              "column": 3,
+              "offset": 13
+            },
+            "end": {
+              "line": 2,
+              "column": 10,
+              "offset": 20
+            }
+          },
+          "kind": "component"
+        }
+      ],
+      "parentEdges": [
+        {
+          "parent": "u1",
+          "child": "u2"
+        },
+        {
+          "parent": "u2",
+          "child": "u3"
+        }
+      ]
+    },
+    "script": {
+      "nodes": [
+        {
+          "id": "s1",
+          "range": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 33
+            },
+            "end": {
+              "line": 14,
+              "column": 10,
+              "offset": 157
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "s2",
+          "range": {
+            "start": {
+              "line": 4,
+              "column": 9,
+              "offset": 41
+            },
+            "end": {
+              "line": 14,
+              "column": 1,
+              "offset": 148
+            }
+          },
+          "kind": "block"
+        },
+        {
+          "id": "s3",
+          "range": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 43
+            },
+            "end": {
+              "line": 6,
+              "column": 41,
+              "offset": 83
+            }
+          },
+          "kind": "statement"
+        },
+        {
+          "id": "s4",
+          "range": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 85
+            },
+            "end": {
+              "line": 13,
+              "column": 2,
+              "offset": 147
+            }
+          },
+          "kind": "statement"
+        },
+        {
+          "id": "s5",
+          "range": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 104
+            },
+            "end": {
+              "line": 9,
+              "column": 14,
+              "offset": 115
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "s6",
+          "range": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 119
+            },
+            "end": {
+              "line": 12,
+              "column": 4,
+              "offset": 145
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "s7",
+          "range": {
+            "start": {
+              "line": 11,
+              "column": 5,
+              "offset": 137
+            },
+            "end": {
+              "line": 11,
+              "column": 9,
+              "offset": 141
+            }
+          },
+          "kind": "documentSymbol"
+        }
+      ],
+      "parentEdges": [
+        {
+          "parent": "s1",
+          "child": "s2"
+        },
+        {
+          "parent": "s2",
+          "child": "s3"
+        },
+        {
+          "parent": "s2",
+          "child": "s4"
+        },
+        {
+          "parent": "s4",
+          "child": "s5"
+        },
+        {
+          "parent": "s4",
+          "child": "s6"
+        },
+        {
+          "parent": "s6",
+          "child": "s7"
+        }
+      ]
+    },
+    "style": {
+      "nodes": [],
+      "parentEdges": []
+    }
+  },
+  "anchors": [
+    {
+      "id": "a1",
+      "ownerId": "s3",
+      "range": {
+        "start": {
+          "line": 6,
+          "column": 8,
+          "offset": 50
+        },
+        "end": {
+          "line": 6,
+          "column": 12,
+          "offset": 54
+        }
+      }
+    },
+    {
+      "id": "a2",
+      "ownerId": "u3",
+      "range": {
+        "start": {
+          "line": 2,
+          "column": 4,
+          "offset": 14
+        },
+        "end": {
+          "line": 2,
+          "column": 8,
+          "offset": 18
+        }
+      }
+    },
+    {
+      "id": "a4",
+      "ownerId": "s7",
+      "range": {
+        "start": {
+          "line": 11,
+          "column": 5,
+          "offset": 137
+        },
+        "end": {
+          "line": 11,
+          "column": 9,
+          "offset": 141
+        }
+      }
+    },
+    {
+      "id": "a5",
+      "ownerId": "s3",
+      "range": {
+        "start": {
+          "line": 6,
+          "column": 18,
+          "offset": 60
+        },
+        "end": {
+          "line": 6,
+          "column": 41,
+          "offset": 83
+        }
+      }
+    }
+  ],
+  "resources": [
+    {
+      "id": "r1",
+      "type": "project-file",
+      "path": "src/components/Main.vue"
+    },
+    {
+      "id": "r2",
+      "type": "package",
+      "path": "vue-router"
+    }
+  ],
+  "relations": [
+    {
+      "type": "binding",
+      "from": "a2",
+      "to": "a4"
+    },
+    {
+      "type": "reference",
+      "from": "a4",
+      "to": "a1"
+    },
+    {
+      "type": "resource",
+      "from": "a5",
+      "to": "r1"
+    },
+    {
+      "type": "resource",
+      "from": "a1",
+      "to": "r1"
+    }
+  ]
+}

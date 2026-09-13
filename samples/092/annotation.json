@@ -1,0 +1,710 @@
+{
+  "id": "092",
+  "project": "MoviePal",
+  "vueFile": "Footer.vue",
+  "sourcePath": "raw-vue/samples/092/Footer.vue",
+  "structure": {
+    "ui": {
+      "nodes": [
+        {
+          "id": "u1",
+          "range": {
+            "start": {
+              "line": 7,
+              "column": 1,
+              "offset": 111
+            },
+            "end": {
+              "line": 14,
+              "column": 12,
+              "offset": 483
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "u2",
+          "range": {
+            "start": {
+              "line": 7,
+              "column": 11,
+              "offset": 121
+            },
+            "end": {
+              "line": 14,
+              "column": 1,
+              "offset": 472
+            }
+          },
+          "kind": "block"
+        },
+        {
+          "id": "u3",
+          "range": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 125
+            },
+            "end": {
+              "line": 13,
+              "column": 12,
+              "offset": 470
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u4",
+          "range": {
+            "start": {
+              "line": 9,
+              "column": 5,
+              "offset": 204
+            },
+            "end": {
+              "line": 12,
+              "column": 11,
+              "offset": 457
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u5",
+          "range": {
+            "start": {
+              "line": 10,
+              "column": 7,
+              "offset": 259
+            },
+            "end": {
+              "line": 10,
+              "column": 77,
+              "offset": 329
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u6",
+          "range": {
+            "start": {
+              "line": 10,
+              "column": 32,
+              "offset": 284
+            },
+            "end": {
+              "line": 10,
+              "column": 41,
+              "offset": 293
+            }
+          },
+          "kind": "text"
+        },
+        {
+          "id": "u7",
+          "range": {
+            "start": {
+              "line": 10,
+              "column": 44,
+              "offset": 296
+            },
+            "end": {
+              "line": 10,
+              "column": 55,
+              "offset": 307
+            }
+          },
+          "kind": "interpolation"
+        },
+        {
+          "id": "u8",
+          "range": {
+            "start": {
+              "line": 10,
+              "column": 58,
+              "offset": 310
+            },
+            "end": {
+              "line": 10,
+              "column": 70,
+              "offset": 322
+            }
+          },
+          "kind": "text"
+        },
+        {
+          "id": "u9",
+          "range": {
+            "start": {
+              "line": 11,
+              "column": 7,
+              "offset": 337
+            },
+            "end": {
+              "line": 11,
+              "column": 115,
+              "offset": 445
+            }
+          },
+          "kind": "element"
+        },
+        {
+          "id": "u10",
+          "range": {
+            "start": {
+              "line": 11,
+              "column": 83,
+              "offset": 413
+            },
+            "end": {
+              "line": 11,
+              "column": 111,
+              "offset": 441
+            }
+          },
+          "kind": "element"
+        }
+      ],
+      "parentEdges": [
+        {
+          "parent": "u1",
+          "child": "u2"
+        },
+        {
+          "parent": "u2",
+          "child": "u3"
+        },
+        {
+          "parent": "u3",
+          "child": "u4"
+        },
+        {
+          "parent": "u4",
+          "child": "u5"
+        },
+        {
+          "parent": "u4",
+          "child": "u9"
+        },
+        {
+          "parent": "u5",
+          "child": "u6"
+        },
+        {
+          "parent": "u5",
+          "child": "u7"
+        },
+        {
+          "parent": "u5",
+          "child": "u8"
+        },
+        {
+          "parent": "u9",
+          "child": "u10"
+        }
+      ]
+    },
+    "script": {
+      "nodes": [
+        {
+          "id": "s1",
+          "range": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 5,
+              "column": 10,
+              "offset": 107
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "s2",
+          "range": {
+            "start": {
+              "line": 1,
+              "column": 15,
+              "offset": 14
+            },
+            "end": {
+              "line": 5,
+              "column": 1,
+              "offset": 98
+            }
+          },
+          "kind": "block"
+        },
+        {
+          "id": "s3",
+          "range": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 16
+            },
+            "end": {
+              "line": 2,
+              "column": 27,
+              "offset": 42
+            }
+          },
+          "kind": "statement"
+        },
+        {
+          "id": "s4",
+          "range": {
+            "start": {
+              "line": 3,
+              "column": 1,
+              "offset": 44
+            },
+            "end": {
+              "line": 3,
+              "column": 51,
+              "offset": 94
+            }
+          },
+          "kind": "statement"
+        },
+        {
+          "id": "s5",
+          "range": {
+            "start": {
+              "line": 3,
+              "column": 7,
+              "offset": 50
+            },
+            "end": {
+              "line": 3,
+              "column": 50,
+              "offset": 93
+            }
+          },
+          "kind": "documentSymbol"
+        }
+      ],
+      "parentEdges": [
+        {
+          "parent": "s1",
+          "child": "s2"
+        },
+        {
+          "parent": "s2",
+          "child": "s3"
+        },
+        {
+          "parent": "s2",
+          "child": "s4"
+        },
+        {
+          "parent": "s4",
+          "child": "s5"
+        }
+      ]
+    },
+    "style": {
+      "nodes": [
+        {
+          "id": "c1",
+          "range": {
+            "start": {
+              "line": 16,
+              "column": 1,
+              "offset": 487
+            },
+            "end": {
+              "line": 27,
+              "column": 9,
+              "offset": 707
+            }
+          },
+          "kind": "documentSymbol"
+        },
+        {
+          "id": "c2",
+          "range": {
+            "start": {
+              "line": 16,
+              "column": 15,
+              "offset": 501
+            },
+            "end": {
+              "line": 27,
+              "column": 1,
+              "offset": 699
+            }
+          },
+          "kind": "block"
+        },
+        {
+          "id": "c3",
+          "range": {
+            "start": {
+              "line": 17,
+              "column": 1,
+              "offset": 503
+            },
+            "end": {
+              "line": 20,
+              "column": 2,
+              "offset": 564
+            }
+          },
+          "kind": "rule"
+        },
+        {
+          "id": "c4",
+          "range": {
+            "start": {
+              "line": 18,
+              "column": 3,
+              "offset": 522
+            },
+            "end": {
+              "line": 18,
+              "column": 16,
+              "offset": 535
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c5",
+          "range": {
+            "start": {
+              "line": 19,
+              "column": 3,
+              "offset": 539
+            },
+            "end": {
+              "line": 19,
+              "column": 25,
+              "offset": 561
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c6",
+          "range": {
+            "start": {
+              "line": 22,
+              "column": 1,
+              "offset": 568
+            },
+            "end": {
+              "line": 26,
+              "column": 2,
+              "offset": 697
+            }
+          },
+          "kind": "rule"
+        },
+        {
+          "id": "c7",
+          "range": {
+            "start": {
+              "line": 23,
+              "column": 3,
+              "offset": 587
+            },
+            "end": {
+              "line": 23,
+              "column": 33,
+              "offset": 617
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c8",
+          "range": {
+            "start": {
+              "line": 24,
+              "column": 3,
+              "offset": 621
+            },
+            "end": {
+              "line": 24,
+              "column": 51,
+              "offset": 669
+            }
+          },
+          "kind": "declaration"
+        },
+        {
+          "id": "c9",
+          "range": {
+            "start": {
+              "line": 25,
+              "column": 3,
+              "offset": 673
+            },
+            "end": {
+              "line": 25,
+              "column": 24,
+              "offset": 694
+            }
+          },
+          "kind": "declaration"
+        }
+      ],
+      "parentEdges": [
+        {
+          "parent": "c1",
+          "child": "c2"
+        },
+        {
+          "parent": "c2",
+          "child": "c3"
+        },
+        {
+          "parent": "c2",
+          "child": "c6"
+        },
+        {
+          "parent": "c3",
+          "child": "c4"
+        },
+        {
+          "parent": "c3",
+          "child": "c5"
+        },
+        {
+          "parent": "c6",
+          "child": "c7"
+        },
+        {
+          "parent": "c6",
+          "child": "c8"
+        },
+        {
+          "parent": "c6",
+          "child": "c9"
+        }
+      ]
+    }
+  },
+  "anchors": [
+    {
+      "id": "a1",
+      "ownerId": "s5",
+      "range": {
+        "start": {
+          "line": 3,
+          "column": 7,
+          "offset": 50
+        },
+        "end": {
+          "line": 3,
+          "column": 18,
+          "offset": 61
+        }
+      }
+    },
+    {
+      "id": "a2",
+      "ownerId": "u7",
+      "range": {
+        "start": {
+          "line": 10,
+          "column": 44,
+          "offset": 296
+        },
+        "end": {
+          "line": 10,
+          "column": 55,
+          "offset": 307
+        }
+      }
+    },
+    {
+      "id": "a3",
+      "ownerId": "u9",
+      "range": {
+        "start": {
+          "line": 11,
+          "column": 42,
+          "offset": 372
+        },
+        "end": {
+          "line": 11,
+          "column": 81,
+          "offset": 411
+        }
+      }
+    },
+    {
+      "id": "a4",
+      "ownerId": "c3",
+      "range": {
+        "start": {
+          "line": 17,
+          "column": 1,
+          "offset": 503
+        },
+        "end": {
+          "line": 17,
+          "column": 14,
+          "offset": 516
+        }
+      }
+    },
+    {
+      "id": "a5",
+      "ownerId": "c6",
+      "range": {
+        "start": {
+          "line": 22,
+          "column": 1,
+          "offset": 568
+        },
+        "end": {
+          "line": 22,
+          "column": 14,
+          "offset": 581
+        }
+      }
+    },
+    {
+      "id": "a6",
+      "ownerId": "u3",
+      "range": {
+        "start": {
+          "line": 8,
+          "column": 62,
+          "offset": 184
+        },
+        "end": {
+          "line": 8,
+          "column": 74,
+          "offset": 196
+        }
+      }
+    },
+    {
+      "id": "a7",
+      "ownerId": "u9",
+      "range": {
+        "start": {
+          "line": 11,
+          "column": 17,
+          "offset": 347
+        },
+        "end": {
+          "line": 11,
+          "column": 29,
+          "offset": 359
+        }
+      }
+    },
+    {
+      "id": "a8",
+      "ownerId": "s3",
+      "range": {
+        "start": {
+          "line": 2,
+          "column": 10,
+          "offset": 25
+        },
+        "end": {
+          "line": 2,
+          "column": 13,
+          "offset": 28
+        }
+      }
+    },
+    {
+      "id": "a9",
+      "ownerId": "s5",
+      "range": {
+        "start": {
+          "line": 3,
+          "column": 21,
+          "offset": 64
+        },
+        "end": {
+          "line": 3,
+          "column": 24,
+          "offset": 67
+        }
+      }
+    },
+    {
+      "id": "a10",
+      "ownerId": "s3",
+      "range": {
+        "start": {
+          "line": 2,
+          "column": 21,
+          "offset": 36
+        },
+        "end": {
+          "line": 2,
+          "column": 26,
+          "offset": 41
+        }
+      }
+    }
+  ],
+  "resources": [
+    {
+      "id": "r1",
+      "type": "package",
+      "path": "vue"
+    },
+    {
+      "id": "r2",
+      "type": "url",
+      "path": "https://github.com/Eralpozcan/MoviesApp"
+    },
+    {
+      "id": "r3",
+      "type": "package",
+      "path": "vue-router"
+    }
+  ],
+  "relations": [
+    {
+      "type": "binding",
+      "from": "a2",
+      "to": "a1"
+    },
+    {
+      "type": "resource",
+      "from": "a3",
+      "to": "r2"
+    },
+    {
+      "type": "style-match",
+      "from": "a6",
+      "to": "a5"
+    },
+    {
+      "type": "style-match",
+      "from": "a7",
+      "to": "a4"
+    },
+    {
+      "type": "reference",
+      "from": "a9",
+      "to": "a8"
+    },
+    {
+      "type": "resource",
+      "from": "a10",
+      "to": "r1"
+    },
+    {
+      "type": "resource",
+      "from": "a8",
+      "to": "r1"
+    }
+  ]
+}

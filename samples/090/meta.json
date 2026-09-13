@@ -1,0 +1,12 @@
+﻿{
+    "id":  "090",
+    "project":  "MoviePal",
+    "vueFile":  "Carounsel.vue",
+    "sourceRepository":  "https://github.com/eralpozcan/MoviePal",
+    "sourceCommit":  "e19c66cf6caebd2921ec3719c8fab7de8bc7d4e1",
+    "sourceLicense":  "MIT",
+    "projectRelativePath":  "src/components/Carounsel.vue",
+    "datasetPath":  "raw-vue/samples/090/Carounsel.vue",
+    "licenseName":  "MIT License",
+    "redistribution":  "source-included-under-upstream-license"
+}
